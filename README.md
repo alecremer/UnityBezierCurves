@@ -1,5 +1,5 @@
 # Unity Bezier curves
-API that creates Bezier curves based on N control points.
+Bezier curves based on N control points.
 
 - Edit mode debugger
 - Real time debug in editor and gameplay
